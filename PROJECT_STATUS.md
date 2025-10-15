@@ -152,8 +152,10 @@ CLERK_SECRET_KEY=your_secret_here
 - ✅ Task 1: Initialize Next.js project (**DONE** - project already set up)
 - ✅ Task 3: Install Tiptap (**DONE** - fully installed)
 
+**In Progress:** 1
+- 🔨 Task 2: Integrate Clerk authentication (**85% DONE** - 6/7 subtasks complete, awaiting .env.local setup)
+
 **Next Up (Ready to Start):**
-- Task 2: Integrate Clerk authentication (no dependencies)
 - Task 8: Create three-panel layout (no dependencies, resizable already installed)
 - Task 9: Set up IndexedDB (no dependencies)
 - Task 13: Integrate mammoth.js (no dependencies, just need to install)
